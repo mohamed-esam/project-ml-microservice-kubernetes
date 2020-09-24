@@ -1,1 +1,12 @@
-<paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): pods "dockerproj4" already exists
+NAME          READY   STATUS    RESTARTS   AGE
+dockerproj4   1/1     Running   0          48m
+Forwarding from 127.0.0.1:8001 -> 80
+Forwarding from [::1]:8001 -> 80
+Handling connection for 8001
+Port: 8001
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
