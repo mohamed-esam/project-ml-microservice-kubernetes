@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+status badge https://circleci.com/gh/mohamed-esam/project-ml-microservice-kubernetes.svg?style=svg&circle-token=278a33895c69ea7696962edd513d68e408b07dd3)](https://app.circleci.com/pipelines/github/mohamed-esam/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
@@ -36,7 +36,4 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ### Kubernetes Steps
 
-* Setup and Configure Docker locally
-* Setup and Configure Kubernetes locally
-* Create Flask app in Container
-* Run via kubectl
+* Setup and Configu
